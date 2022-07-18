@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_02_1/Algorithm_02_1.iml" filepath="$PROJECT_DIR$/Algorithm_02_1/Algorithm_02_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_02_2/Algorithm_02_2.iml" filepath="$PROJECT_DIR$/Algorithm_02_2/Algorithm_02_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_02_3/Algorithm_02_3.iml" filepath="$PROJECT_DIR$/Algorithm_02_3/Algorithm_02_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_03/Algorithm_03.iml" filepath="$PROJECT_DIR$/Algorithm_03/Algorithm_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_04/Algorithm_04.iml" filepath="$PROJECT_DIR$/Algorithm_04/Algorithm_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_05/Algorithm_05.iml" filepath="$PROJECT_DIR$/Algorithm_05/Algorithm_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_06/Algorithm_06.iml" filepath="$PROJECT_DIR$/Algorithm_06/Algorithm_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_07/Algorithm_07.iml" filepath="$PROJECT_DIR$/Algorithm_07/Algorithm_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_08/Algorithm_08.iml" filepath="$PROJECT_DIR$/Algorithm_08/Algorithm_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_09/Algorithm_09.iml" filepath="$PROJECT_DIR$/Algorithm_09/Algorithm_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_10/Algorithm_10.iml" filepath="$PROJECT_DIR$/Algorithm_10/Algorithm_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_11/Algorithm_11.iml" filepath="$PROJECT_DIR$/Algorithm_11/Algorithm_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_12/Algorithm_12.iml" filepath="$PROJECT_DIR$/Algorithm_12/Algorithm_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_13/Algorithm_13.iml" filepath="$PROJECT_DIR$/Algorithm_13/Algorithm_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_14/Algorithm_14.iml" filepath="$PROJECT_DIR$/Algorithm_14/Algorithm_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_15/Algorithm_15.iml" filepath="$PROJECT_DIR$/Algorithm_15/Algorithm_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_16_1/Algorithm_16_1.iml" filepath="$PROJECT_DIR$/Algorithm_16_1/Algorithm_16_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_16_2/Algorithm_16_2.iml" filepath="$PROJECT_DIR$/Algorithm_16_2/Algorithm_16_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_16_3/Algorithm_16_3.iml" filepath="$PROJECT_DIR$/Algorithm_16_3/Algorithm_16_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_17/Algorithm_17.iml" filepath="$PROJECT_DIR$/Algorithm_17/Algorithm_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_18/Algorithm_18.iml" filepath="$PROJECT_DIR$/Algorithm_18/Algorithm_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_19/Algorithm_19.iml" filepath="$PROJECT_DIR$/Algorithm_19/Algorithm_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_20_1/Algorithm_20_1.iml" filepath="$PROJECT_DIR$/Algorithm_20_1/Algorithm_20_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm_20_2/Algorithm_20_2.iml" filepath="$PROJECT_DIR$/Algorithm_20_2/Algorithm_20_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice.iml" filepath="$PROJECT_DIR$/.idea/Practice.iml" />
+    </modules>
+  </component>
+</project>
